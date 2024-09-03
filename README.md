@@ -2,22 +2,22 @@ Creating a README for your GitHub profile is a great way to introduce and docume
 
 ---
 
-# 📚 My Courses & Lessons App
+ My Courses & Lessons App
 
 Welcome to the **My Courses & Lessons App** project! This mobile application is being developed using **Flutter** in **Android Studio**. The primary aim of this app is to provide users with a seamless experience to browse, register, and access various courses and lessons. Although the project is still in development, it already includes a registration page that is linked with a WordPress site, as well as a basic login and home page.
 
-## 🚀 Features
+ Features
 
 - **User Registration**: Users can register through the app, and their details are seamlessly integrated with a WordPress-based backend.
 - **User Login**: A simple login functionality that authenticates users and redirects them to the home page.
 - **Home Page**: After logging in, users can access the home page, which displays a list of available courses.
 - **Courses Display**: The home page currently lists the courses retrieved from the backend. Future updates will include more details about each course and lesson.
 
-## 📱 Screenshots
+ Screenshots
 
 > [Add screenshots here in the future to give a visual overview of your app's user interface]
 
-## 🛠️ Technologies Used
+Technologies Used
 
 - **Flutter**: For building the cross-platform mobile application.
 - **Dart**: As the primary programming language.
@@ -25,7 +25,7 @@ Welcome to the **My Courses & Lessons App** project! This mobile application is 
 - **WordPress**: Backend integration for user registration and course management.
 - **LearnDash**: LMS plugin for WordPress used for course and lesson management.
 
-## ⚙️ Installation & Setup
+ Installation & Setup
 
 1. **Clone the repository**:
     ```bash
@@ -44,7 +44,7 @@ Welcome to the **My Courses & Lessons App** project! This mobile application is 
     flutter run
     ```
 
-## 📝 Roadmap
+Roadmap
 
 - [x] Implement registration functionality.
 - [x] Set up basic login functionality.
@@ -55,7 +55,7 @@ Welcome to the **My Courses & Lessons App** project! This mobile application is 
 - [ ] Improve UI/UX based on user feedback.
 - [ ] Testing and bug fixing.
 
-## 🌟 Contributing
+ Contributing
 
 Contributions are welcome! Please fork this repository and submit a pull request for any new features, bug fixes, or enhancements.
 
